@@ -1,5 +1,5 @@
 // conversao de string para parsefloat
-console.log(parseFloat8('12.99'))
+console.log(parseFloat('12.99'))
 console.log(Number.parseFloat('12.99'))
 
 // conversacao de string paraparsInt
